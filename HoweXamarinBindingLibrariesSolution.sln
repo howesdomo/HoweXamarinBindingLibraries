@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingLibrary.AndroiD.BaiduLBS", "BindingLibrary.AndroiD.BaiduLBS\BindingLibrary.AndroiD.BaiduLBS.csproj", "{2DEA83C9-FB2C-4373-AEB5-F7043E3E92E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingLibrary.AndroiD.OpenCV", "BindingLibrary.AndroiD.OpenCV\BindingLibrary.AndroiD.OpenCV.csproj", "{42BCCD91-90C7-4A34-9507-E725578FDC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2DEA83C9-FB2C-4373-AEB5-F7043E3E92E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DEA83C9-FB2C-4373-AEB5-F7043E3E92E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DEA83C9-FB2C-4373-AEB5-F7043E3E92E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BCCD91-90C7-4A34-9507-E725578FDC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BCCD91-90C7-4A34-9507-E725578FDC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BCCD91-90C7-4A34-9507-E725578FDC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BCCD91-90C7-4A34-9507-E725578FDC81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
