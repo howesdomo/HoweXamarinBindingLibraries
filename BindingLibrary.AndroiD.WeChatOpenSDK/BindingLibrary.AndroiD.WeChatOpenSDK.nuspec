@@ -3,16 +3,16 @@
   <metadata minClientVersion="2.12">
     <id>$id$</id>
     <version>$version$</version>
-    <title>BindingLibrary.AndroiD.BaiduLBS</title>
+    <title>Util.XamariN.AndroiD</title>
     <authors>HowesDOMO</authors>
     <owners>HowesDOMO</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://raw.githubusercontent.com/howesdomo/HoweStandardUtil/master/LICENSE.md</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/howesdomo/HoweXamarinBindingLibraries/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/howesdomo/HoweXamarinBindingLibraries</projectUrl>
     <iconUrl>https://github.com/howesdomo/HoweStandardUtil/raw/master/icon.png</iconUrl>
-    <description>BindingLibrary.AndroiD.BaiduLBS is LBS library, which is use BaiduLBS_Library.jar, for Xamarin.Forms.</description>
+    <description>BindingLibrary.AndroiD.WeChatOpenSDK is WeChat library, which is use wechat-sdk-android-without-mta-6.6.4.jar, for Xamarin.Forms.</description>
     <copyright>Copyright 2019 HowesDOMO</copyright>
-    <tags>Xamarin.Android Xamarin.Forms BaiduLBS</tags>
+    <tags>Xamarin.Android Xamarin.Forms WeChatOpenSDK</tags>
     <repository type="git" url="https://github.com/howesdomo/HoweXamarinBindingLibraries.git" />
-  </metadata>
+ </metadata>
 </package>
